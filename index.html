@@ -28,11 +28,11 @@
         return false;
       }
 
-      var firstHalf = (yearInput.slice(0, 2)/4 -2*yearInput.slice(0,2) -1);
+      var firstHalf = (yearInput.slice(0, 2) / 4 - 2 * yearInput.slice(0,2) -1);
 
-      var secondHalf = (5*yearInput.slice(-2)/4);
+      var secondHalf = (5 * yearInput.slice(-2) / 4);
 
-      var lastHalf = (26*(m+1)/10); 
+      var lastHalf = (26 * (m+1) / 10); 
 
       var dayofWeek = (parseInt(firstHalf) + parseInt(secondHalf) + parseInt(lastHalf))% 7;
 
