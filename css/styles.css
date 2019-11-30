@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+}
+
+p{
+
+}
+
+.form{
+  align-items: center;
+  padding-left: 20px;
+}
+
+.footer{
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  color: indianred;
+  background-color: lightblue;
+}
