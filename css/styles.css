@@ -2,8 +2,16 @@ h1{
   text-align: center;
 }
 
+.jumbotron{
+  background-image: url("https://bit.ly/2ODET7m") ;
+}
+
 p{
 
+}
+
+.intro{
+  padding-left: 20px;
 }
 
 .form{
