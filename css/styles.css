@@ -1,5 +1,8 @@
 h1{
   text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 300%;
+
 }
 
 .jumbotron{
@@ -12,6 +15,7 @@ p{
 
 .intro{
   padding-left: 20px;
+
 }
 
 .form{
