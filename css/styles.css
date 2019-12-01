@@ -10,7 +10,8 @@ h1{
 }
 
 p{
-
+  font-family: 'Zilla Slab', serif;
+  font-size: 150%;
 }
 
 .intro{
