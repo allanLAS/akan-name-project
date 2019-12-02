@@ -25,13 +25,34 @@ p{
   font-family: 'Montserrat';
   font-weight: lighter;
   font-size: 25px;
-  color: aqua;
+  color: navy;
 
 }
 
 .form{
   align-items: center;
-  padding-left: 20px;
+  padding-left: 50px;
+  padding-bottom: 30px;
+}
+
+.card{
+  padding-bottom: 30px;
+}
+input {
+  width: 40%;
+}
+
+input[type=radio] {
+  width: 25%;
+  
+
+}
+
+.btn {
+  margin-left: 80px;
+  margin-top: 20px;
+  border-radius: 20px;
+
 }
 
 .footer{
