@@ -19,6 +19,14 @@ p{
 
 }
 
+.labels{
+  font-family: 'Montserrat';
+  font-weight: lighter;
+  font-size: 25px;
+  color: aqua;
+
+}
+
 .form{
   align-items: center;
   padding-left: 20px;
