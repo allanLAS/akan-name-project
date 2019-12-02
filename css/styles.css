@@ -6,7 +6,9 @@ h1{
 }
 
 .jumbotron{
-  background-image: url("https://bit.ly/2ODET7m") ;
+  background-image: url("https://bit.ly/2ODET7m");
+  margin-top: 10px;
+  margin-bottom: 0;
 }
 
 p{
