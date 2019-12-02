@@ -14,6 +14,7 @@ Feel free to contact me via allanlas@gmail.com
 No known bugs.
 
 # MIT License
+This project is licensed under the terms of the MIT license.
 
 [LICENSE](LICENSE)
 
